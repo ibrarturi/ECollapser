@@ -1,0 +1,4 @@
+ECollapser
+==========
+
+ECollapser Yii Extension
